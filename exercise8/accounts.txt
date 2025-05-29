@@ -1,0 +1,5 @@
+kyle,12345,05-22-2025,Inactive
+andrew,4444,05-22-2025,Inactive
+adrid,789,05-22-2025,Active
+paolo,888,05-29-2025,Active
+martin,pass8,05-29-2025,Active
